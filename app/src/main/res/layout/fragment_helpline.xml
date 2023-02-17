@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".helplineFragment">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/oscc"
+            android:layout_width="129dp"
+            android:layout_height="103dp"
+            android:layout_marginTop="24dp"
+            android:src="@drawable/oscc"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/hawa"
+            android:layout_width="129dp"
+            android:layout_height="103dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/hawa"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/oscc" />
+
+        <ImageView
+            android:id="@+id/awam"
+            android:layout_width="129dp"
+            android:layout_height="103dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="5dp"
+            android:src="@drawable/awam"
+            app:layout_constraintEnd_toStartOf="@+id/wao"
+            app:layout_constraintStart_toEndOf="@+id/hawa"
+            app:layout_constraintTop_toBottomOf="@+id/befrienders" />
+
+        <ImageView
+            android:id="@+id/wao"
+            android:layout_width="129dp"
+            android:layout_height="103dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/wao"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/boi" />
+
+        <ImageView
+            android:id="@+id/befrienders"
+            android:layout_width="129dp"
+            android:layout_height="103dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="5dp"
+            android:src="@drawable/befrienders1"
+            app:layout_constraintEnd_toStartOf="@+id/boi"
+            app:layout_constraintStart_toEndOf="@+id/oscc"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/boi"
+            android:layout_width="129dp"
+            android:layout_height="103dp"
+            android:layout_marginTop="24dp"
+            android:src="@drawable/boi"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1 Stop Crisis Center"
+            app:layout_constraintEnd_toEndOf="@+id/oscc"
+            app:layout_constraintStart_toStartOf="@+id/oscc"
+            app:layout_constraintTop_toBottomOf="@+id/oscc" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Befrienders"
+            app:layout_constraintEnd_toEndOf="@+id/befrienders"
+            app:layout_constraintStart_toStartOf="@+id/befrienders"
+            app:layout_constraintTop_toBottomOf="@+id/befrienders" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Buddies of Ipoh"
+            app:layout_constraintEnd_toEndOf="@+id/boi"
+            app:layout_constraintStart_toStartOf="@+id/boi"
+            app:layout_constraintTop_toBottomOf="@+id/boi" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HAWA"
+            app:layout_constraintEnd_toEndOf="@+id/hawa"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/hawa" />
+
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WAO"
+            app:layout_constraintEnd_toEndOf="@+id/wao"
+            app:layout_constraintStart_toStartOf="@+id/wao"
+            app:layout_constraintTop_toBottomOf="@+id/wao" />
+
+        <TextView
+            android:id="@+id/textView33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AWAM"
+            app:layout_constraintEnd_toEndOf="@+id/awam"
+            app:layout_constraintStart_toStartOf="@+id/awam"
+            app:layout_constraintTop_toBottomOf="@+id/awam" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

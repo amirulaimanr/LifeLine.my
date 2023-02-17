@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/drawable/bg_round.xml" value="0.1085" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/drawable/custom_input.xml" value="0.195" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.332" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/activity_homepage.xml" value="0.25" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/activity_main.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/custom_input.xml" value="0.3625" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_aduan.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_contact.xml" value="0.34556159420289856" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_edit.xml" value="0.34556159420289856" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_helpline.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_info.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_location.xml" value="0.34556159420289856" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_pdrm.xml" value="0.33" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_tm.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/fragment_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/layout/userentry.xml" value="0.4407894736842105" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/menu/bottom_nav_menu.xml" value="0.33" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/menu/btm_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/ai/AndroidStudioProjects/Lifelinemy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
